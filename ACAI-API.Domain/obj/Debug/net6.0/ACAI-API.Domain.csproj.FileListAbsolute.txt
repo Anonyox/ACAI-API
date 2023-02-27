@@ -1,0 +1,12 @@
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\bin\Debug\net6.0\ACAI-API.Domain.deps.json
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\bin\Debug\net6.0\ACAI-API.Domain.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\bin\Debug\net6.0\ref\ACAI-API.Domain.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\bin\Debug\net6.0\ACAI-API.Domain.pdb
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ref\ACAI-API.Domain.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Domain\obj\Debug\net6.0\ACAI-API.Domain.pdb

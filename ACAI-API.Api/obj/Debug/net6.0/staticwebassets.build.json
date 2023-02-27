@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VnqxUNVQHgOyaH/CdFuAQ67PIQuPxCGJLrp9vj+4SQM=",
+  "Source": "ACAI-API.Api",
+  "BasePath": "_content/ACAI-API.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

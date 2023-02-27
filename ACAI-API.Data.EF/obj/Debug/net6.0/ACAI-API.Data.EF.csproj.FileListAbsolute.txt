@@ -1,0 +1,17 @@
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ACAI-API.Data.EF.deps.json
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ACAI-API.Data.EF.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ACAI-API.Data.EF.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ref\ACAI-API.Data.EF.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ACAI-API.Data.EF.pdb
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ACAI-API.Domain.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\bin\Debug\net6.0\ACAI-API.Domain.pdb
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ref\ACAI-API.Data.EF.dll
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.pdb
+C:\Users\Usuario\Source\Repos\ACAI-API\ACAI-API.Data.EF\obj\Debug\net6.0\ACAI-API.Data.EF.genruntimeconfig.cache
